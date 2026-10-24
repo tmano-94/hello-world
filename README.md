@@ -1,4 +1,4 @@
-# Sports Analytics Practice
+# Hello World
 
 Welcome to my first GitHub repository!
 
